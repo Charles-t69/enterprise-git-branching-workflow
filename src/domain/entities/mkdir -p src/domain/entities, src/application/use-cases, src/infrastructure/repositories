@@ -1,0 +1,7 @@
+// src/domain/entities/folder.entity.ts
+export interface Folder {
+  id: string;
+  name: string;
+  ownerId: string;
+  createdAt: Date;
+}
