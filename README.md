@@ -2,7 +2,7 @@
 
 ## Project Description
 This repository demonstrates a professional Git workflow using long-lived and short-lived branches following enterprise standards.
-    
+       
 ## Branching Strategy
 - main: Production-ready code
 - develop: Integration branch
